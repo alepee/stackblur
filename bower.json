@@ -1,0 +1,29 @@
+{
+  "name": "stackblur",
+  "version": "0.5.0",
+  "authors": [
+    "Mario Klingemann <mario@quasimondo.com>"
+    "Antoine Lépée <alepee@gmail.com>"
+  ],
+  "description": "StackBlur - a fast almost Gaussian Blur For Canvas",
+  "main": "stackblur.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "blur",
+    "guaussian",
+    "stackblur",
+    "fast",
+    "canvas"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.quasimondo.com/StackBlurForCanvas",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
